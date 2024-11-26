@@ -64,7 +64,7 @@ author:
   links:
     - label: "Wechat"
       icon: "fab fa-weixin"
-      url: "/wechat.jpg" #添加微信二维码
+      url: "/wechat.jpeg" #添加微信二维码
 
       
     #- label: "GitHub"
